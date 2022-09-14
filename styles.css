@@ -1,0 +1,19 @@
+.container {
+    width: 300px;
+    text-align: center;
+    margin: 40px auto 0;
+}
+
+textarea {
+    width: 250px;
+    height: 100px;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+button {
+    width: 250px;
+    margin-top: 10px;
+}
